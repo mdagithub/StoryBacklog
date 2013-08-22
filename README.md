@@ -11,7 +11,7 @@ Labels can be prefixed and colour-coded to better organize them.
 
 Recommended Label category (with prefixes):  
 a - Issue type (mandatory)  
-n - for additional tasks needed to complete Enhancements/User Stories  
+n - for additional tasks needed to complete development issues  
 s - for development status  
 p - priority  
 q - for blocking questions or other impediments  
