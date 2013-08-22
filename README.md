@@ -1,14 +1,15 @@
-##StoryBacklog
-
+StoryBacklog
+============
 
 This holds the entire Story Backlog before the stories get transferred to the implementation repositories.
 
-###Conventions
+Conventions
+-----------
 mdagithub uses the following conventions:
 
 Labels can be prefixed and colour-coded to better organize them.
 
-Recommended Label category (with prefixes):
+Recommended Label category (with prefixes):  
 a - Issue type (mandatory)  
 n - for additional tasks needed to complete Enhancements/User Stories  
 s - for development status  
